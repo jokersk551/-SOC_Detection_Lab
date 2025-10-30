@@ -44,7 +44,7 @@ Each log entry represents a failed Windows login attempt.
 
 ---
 
-### 2️⃣ Basic Search
+## 2️⃣ Basic Search
 ```
 index="soc_lab" EventCode=4625
 Displays all failed login attempts from the imported logs.
